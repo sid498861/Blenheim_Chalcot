@@ -12,13 +12,13 @@ Description- This is a readme document explaning how to use the script RSS_feed.
 ***Step1:***
 This script uses three Python packages: Requests, Requests-HTML, and Pandas. Requests is one of the most popular Python libraries and is used for making HTTP requests to servers to fetch data. Requests-HTML is a web scraping library that combines Requests with the Beautiful Soup parsing package, while Pandas is used for data storage and manipulation.
 
-*If the above packages are not installed use below commands to install the packages-
+*If the above packages are not installed use below commands to install the packages-*
 
 !pip3 install requests_html
 
 !pip3 install pandas
 
-!pip3 install requests*
+!pip3 install requests
 
 ***Step 2:***
 Two functions have been created as part of the script-
